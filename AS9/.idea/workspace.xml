@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="730cee85-a0a5-41b9-a5d2-6f8b716581d6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lVeNQRSAYRQNr9O55Y3qYfcwp4" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AS5" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pesel" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestPesel">
+    <configuration name="TestPesel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AS9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pesel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pesel" />
+      <option name="MAIN_CLASS_NAME" value="pesel.TestPesel" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPesel.getDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AS9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pesel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pesel" />
+      <option name="MAIN_CLASS_NAME" value="pesel.TestPesel" />
+      <option name="METHOD_NAME" value="getDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPesel.validate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AS9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pesel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pesel" />
+      <option name="MAIN_CLASS_NAME" value="pesel.TestPesel" />
+      <option name="METHOD_NAME" value="validate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPesel" />
+        <item itemvalue="JUnit.TestPesel.validate" />
+        <item itemvalue="JUnit.TestPesel.getDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="730cee85-a0a5-41b9-a5d2-6f8b716581d6" name="Default Changelist" comment="" />
+      <created>1607686644871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607686644871</updated>
+      <workItem from="1607686782131" duration="4786000" />
+      <workItem from="1607783070348" duration="1993000" />
+      <workItem from="1608200554068" duration="135000" />
+      <workItem from="1608287712142" duration="929000" />
+      <workItem from="1609686096258" duration="538000" />
+      <workItem from="1609866849272" duration="15000" />
+      <workItem from="1610573859831" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
